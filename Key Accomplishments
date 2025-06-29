@@ -1,0 +1,8 @@
+Key Accomplishments
+🚀 Reduced cloud setup time by 35% by proposing a pre-configured, reusable landing zone with modular components for infrastructure, security, and monitoring.
+🔐 Enhanced identity and access management by integrating Azure Active Directory with SSO & MFA, improving security posture across 100+ users.
+💰 Cut costs by 20% through automation of infrastructure provisioning using Azure DevOps pipelines and Terraform recommendations.
+📈 Developed a three-tier data zone architecture (Raw, Curated, Analytics) to support high-volume ETL, ML, and BI workflows.
+🧠 Conducted knowledge sessions with stakeholders including CISO, DevOps Engineers, Cloud Architects, and Project Managers to align cross-functional goals.
+📊 Delivered a presentation outlining 7+ stakeholder roles, enterprise trade-offs, compliance strategies, and monitoring best practices using Azure Monitor and Security Center.
+🧱 Proposed risk mitigation strategies for vendor lock-in, data duplication, and cost overruns, resulting in a 25% improvement in governance control.
